@@ -4,4 +4,6 @@ project(ASSIGNMENT C)
 set(CMAKE_C_STANDARD 23)
 
 add_executable(ASSIGNMENT
-        money_convertor.c)
+        #hello.c
+        money_convertor.c
+)
