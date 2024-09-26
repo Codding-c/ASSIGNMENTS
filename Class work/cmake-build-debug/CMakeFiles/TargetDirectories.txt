@@ -1,3 +1,0 @@
-C:/Users/SOUMYOJIT/CLionProjects/Class work/cmake-build-debug/CMakeFiles/Class_work.dir
-C:/Users/SOUMYOJIT/CLionProjects/Class work/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/SOUMYOJIT/CLionProjects/Class work/cmake-build-debug/CMakeFiles/rebuild_cache.dir
